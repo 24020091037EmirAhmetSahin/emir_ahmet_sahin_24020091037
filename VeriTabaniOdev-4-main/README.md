@@ -1,4 +1,5 @@
 # Emira Mutfak — Veri Tabanı Ödev 4
+<img width="1914" height="993" alt="2 1" src="https://github.com/user-attachments/assets/b3f5526b-50d2-430a-bda1-6d318b6b0188" />
 
 **Geliştirici:** Emira  
 **Ders:** Veri Tabanı Sistemleri  
