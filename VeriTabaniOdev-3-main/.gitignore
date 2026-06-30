@@ -1,0 +1,11 @@
+bin/
+obj/
+packages/
+.vs/
+.idea/
+build/
+*.user
+*.suo
+*.cache
+*.class
+.nbproject/private/

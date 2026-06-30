@@ -1,0 +1,50 @@
+# Node / React Native / Expo
+node_modules/
+.expo/
+.expo-web-test/
+dist/
+web-build/
+expo-env.d.ts
+.metro-health-check*
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.tsbuildinfo
+
+# .NET / Visual Studio
+bin/
+obj/
+packages/
+.vs/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+!**/tools/**/*.exe
+
+# Java / Maven / NetBeans
+target/
+build/
+.nbproject/private/
+.idea/
+*.iml
+*.class
+.kotlin/
+
+# Veritabani / log dosyalari (yeniden uretilebilir)
+veritabani/postgres_data/
+veritabani/postgres.log
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.pem
+.env*.local
+.claude/
+
+# Native mobile (yeniden olusturulur)
+ios/
+android/

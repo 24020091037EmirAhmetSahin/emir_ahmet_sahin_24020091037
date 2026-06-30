@@ -1,0 +1,11 @@
+bin/
+obj/
+packages/
+.vs/
+.idea/
+build/
+target/
+*.user
+*.suo
+*.cache
+*.class

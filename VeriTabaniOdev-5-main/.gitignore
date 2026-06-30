@@ -1,0 +1,14 @@
+bin/
+obj/
+packages/
+.vs/
+.idea/
+build/
+target/
+*.user
+*.suo
+*.cache
+*.class
+veritabani/postgres_data/
+veritabani/postgres.log
+*.log

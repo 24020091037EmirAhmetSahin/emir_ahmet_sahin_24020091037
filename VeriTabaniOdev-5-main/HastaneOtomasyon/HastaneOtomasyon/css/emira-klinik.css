@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;600;700;800&display=swap');
+
+:root {
+    --ek-bg: #f0faf7;
+    --ek-card: #ffffff;
+    --ek-primary: #0d9488;
+    --ek-primary-dark: #0f766e;
+    --ek-accent: #14b8a6;
+    --ek-text: #134e4a;
+    --ek-muted: #5f8a85;
+    --ek-border: #cce8e3;
+}
+
+body.emira-klinik {
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+    background: linear-gradient(180deg, #f0faf7 0%, #e6f5f2 100%);
+    color: #1e3a36;
+    min-height: 100vh;
+}
+
+.emira-klinik .navbar-ek {
+    background: rgba(255, 255, 255, 0.95) !important;
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--ek-border);
+    box-shadow: 0 2px 16px rgba(13, 148, 136, 0.08);
+}
+
+.emira-klinik .navbar-brand {
+    color: var(--ek-primary) !important;
+    font-weight: 800;
+    font-size: 1.35rem;
+}
+
+.emira-klinik .nav-link {
+    color: var(--ek-muted) !important;
+    font-weight: 600;
+}
+
+.emira-klinik .nav-link:hover,
+.emira-klinik .nav-link.active {
+    color: var(--ek-primary) !important;
+}
+
+.emira-klinik .card-ek {
+    background: var(--ek-card);
+    border: 1px solid var(--ek-border);
+    border-radius: 16px;
+    box-shadow: 0 4px 20px rgba(13, 148, 136, 0.08);
+    transition: transform 0.25s, box-shadow 0.25s;
+}
+
+.emira-klinik .card-ek:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 12px 32px rgba(13, 148, 136, 0.15);
+}
+
+.emira-klinik .btn-ek {
+    background: var(--ek-primary);
+    color: #fff !important;
+    border: none;
+    border-radius: 10px;
+    font-weight: 700;
+    padding: 0.5rem 1.25rem;
+}
+
+.emira-klinik .btn-ek:hover {
+    background: var(--ek-primary-dark);
+    color: #fff !important;
+}
+
+.emira-klinik .form-control,
+.emira-klinik .form-select {
+    border-radius: 10px;
+    border: 1px solid var(--ek-border);
+    padding: 0.75rem 1rem;
+    background: #fff;
+}
+
+.emira-klinik .form-control:focus,
+.emira-klinik .form-select:focus {
+    border-color: var(--ek-accent);
+    box-shadow: 0 0 0 3px rgba(20, 184, 166, 0.2);
+}
+
+.emira-klinik .table-ek th {
+    background: #e6f5f2;
+    color: var(--ek-primary-dark);
+    font-weight: 700;
+    border-bottom: 2px solid var(--ek-border);
+}
+
+.emira-klinik .table-ek td {
+    border-bottom: 1px solid var(--ek-border);
+    vertical-align: middle;
+}
+
+.emira-klinik .page-title {
+    color: var(--ek-primary-dark);
+    font-weight: 800;
+}
