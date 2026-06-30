@@ -1,4 +1,7 @@
 # Veritabanı Yönetim Sistemleri — Emira (Ödev 5)
+<img width="1919" height="903" alt="3 3" src="https://github.com/user-attachments/assets/50635560-a930-4207-893d-2471d8c53e01" />
+<img width="1919" height="912" alt="3 2" src="https://github.com/user-attachments/assets/ec0bf328-2a93-4aac-99c1-03b88542f4fb" />
+<img width="1919" height="991" alt="3 1" src="https://github.com/user-attachments/assets/6c5afce1-cbdf-40ed-ab03-8eecf7eabb27" />
 
 Üç ayrı web uygulaması: farklı backend + farklı veritabanı.
 
