@@ -1,4 +1,5 @@
 # Emira · Günün Notu
+<img width="1919" height="1012" alt="4 1" src="https://github.com/user-attachments/assets/6fe185f2-db18-4fb9-827f-9aae5ee16b69" />
 
 React Native (Expo) ve yerel SQLite ile geliştirilmiş **Günün Notu** mobil uygulaması.
 
