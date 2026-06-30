@@ -1,4 +1,5 @@
 # Emira Not Defteri — Veri Tabanı Ödev 7
+<img width="1919" height="1012" alt="5 1" src="https://github.com/user-attachments/assets/3e2c29a4-e8da-405b-ad16-db8b98a9dc55" />
 
 **Geliştirici:** Emira  
 **Ders:** Veri Tabanları  
