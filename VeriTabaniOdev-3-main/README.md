@@ -1,4 +1,6 @@
 # Emira Sepet Yönetim Sistemi
+<img width="876" height="747" alt="1 2" src="https://github.com/user-attachments/assets/044fae7c-7ad9-4fde-9bb9-5b74bf60785e" />
+<img width="885" height="752" alt="1 1" src="https://github.com/user-attachments/assets/e5123082-7d4e-4dfa-810e-9f9b0fc08ea6" />
 
 **Geliştirici:** Emira  
 **Ders:** Veritabanı Yönetim Sistemleri
